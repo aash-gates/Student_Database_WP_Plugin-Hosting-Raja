@@ -32,6 +32,6 @@ For any issues or feature requests, please [open an issue]([https://github.com/y
 
 ## Contributors
 
-- [Your Name](https://github.com/aash-gates)
+- [Aashik J Krishnan](https://github.com/aash-gates)
 
 
