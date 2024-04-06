@@ -28,7 +28,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For any issues or feature requests, please [open an issue](https://github.com/yourusername/student-management-plugin/issues) on GitHub.
+For any issues or feature requests, please [open an issue]([https://github.com/yourusername/student-management-plugin/issues](https://github.com/aash-gates/Student_Database_WP_Plugin-Hosting-Raja)) on GitHub.
 
 ## Contributors
 
